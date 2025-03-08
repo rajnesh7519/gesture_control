@@ -10,3 +10,9 @@
 2. `pip install pyFirmata2` 
 3. `pip install cvzone`
 4. `pip install mediapipe`
+
+To function:
+1. Go to Arduino ide>files>Examples>Firmata>Standard Firmata
+2. upload standard firmata code in the arduino
+3. Edit the connected port in the python code (Example: "COM9")
+4. A window frame with camera will pop up , press k to terminate it.
